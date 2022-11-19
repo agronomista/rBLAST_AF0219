@@ -44,3 +44,6 @@ Para descomprimirlo mendiante el lenguaje de programación R debe ejecutarse el 
 ```{r}
 untar("16S_ribosomal_RNA.tar.gz", exdir="16SMicrobialDB")
 ```
+
+
+![](code.png)
