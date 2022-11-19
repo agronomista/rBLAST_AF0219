@@ -4,7 +4,7 @@
 
 Es muy importante crear una carpeta que almacene todos los archivos y dependencias necesarias para ejecutar el **script** de la mejor manera. Se recomienda definir el directorio de trabajo y seguir la siguiente estructura de carpetas:
 
-![](Carpetas_ficheros.jpg){fig-align="center"}
+![](Carpetas_ficheros.jpg)
 
 Posterior a la creación de carpetas es necesario descomprimir los archivos para su lectura. Es muy importante mencionar que esta librería solamente acepta archivos fasta. **Se recomienda crear una carpeta cada vez que se requiera descomprimir un archivo tar.gz o zip.**
 
