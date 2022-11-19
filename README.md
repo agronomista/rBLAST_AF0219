@@ -33,7 +33,6 @@ install.packages('rBLAST', repos = 'https://mhahsler.r-universe.dev')
 ```{r}
 download.file("https://ftp.ncbi.nlm.nih.gov/blast/db/16S_ribosomal_RNA.tar.gz",
    "16S_ribosomal_RNA.tar.gz", mode='wb')
-
 ```
 
 Es posible descargar otras bases de datos siguiendo este enlance: [Bases de datos NCBI](https://ftp.ncbi.nlm.nih.gov/blast/db/), recuerde realizar la creación de todas la carpetas/ficheros, el procedimiento es el mismo que al anterior.
