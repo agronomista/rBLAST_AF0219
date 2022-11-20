@@ -45,5 +45,23 @@ Para descomprimirlo mendiante el lenguaje de programación R debe ejecutarse el 
 untar("16S_ribosomal_RNA.tar.gz", exdir="16SMicrobialDB")
 ```
 
-# Entorno de trabajo
+## Entorno de trabajo
 ![](code.png)
+
+## Citation Request
+
+Cite the use of this package as:
+
+> Hahsler M, Nagar A (2019). rBLAST: R Interface for the Basic Local Alignment Search Tool. 
+> R package version 0.99.2, URL: https://github.com/mhahsler/rBLAST.
+
+BibTeX
+```  
+@Manual{,
+    title = {rBLAST: R Interface for the Basic Local Alignment Search Tool},
+    author = {Michael Hahsler and Anurag Nagar},
+    year = {2019},
+    note = {R package version 0.99.2},
+  }
+```
+
